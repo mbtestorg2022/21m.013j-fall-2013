@@ -403,7 +403,7 @@ Ott, Frederick W. "Faust." In _The Great German Films: From Before World War I t
 
 Excerpt from [_The Tragical History of Doctor Faustus_](http://www.gutenberg.org/files/811/811-h/811-h.htm) by Christopher Marlowe. _(Read from "OLD MAN. O gentle Faustus…'' to the end.)_
 
-Excerpts from ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dr. Johannes Faustus' Puppet Play (PDF)]({{< baseurl >}}/resources/mit21m_013jf13_pupply_excpt)
+Excerpts from [Dr. Johannes Faustus' Puppet Play (PDF)]({{< baseurl >}}/resources/mit21m_013jf13_pupply_excpt)
 
 Faustus, Johannes. _Puppet Play Now First Done into English_. Book on Demand Ltd., 2013. ISBN: 9785518781900. _(Optional full reading)_
 
